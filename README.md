@@ -28,9 +28,9 @@ git branch issue_test # makes new branch
 git checkout issue_test # switches to that branch
 
 Commiting changes in the code:
-git add issue_test.py # stash the changes.
-git commit -m "what dit you change?"
-git push # commit the changes
+  git add issue_test.py # stash the changes.
+  git commit -m "what dit you change?"
+  git push # commit the changes
 
 How to receive the most up to date code from our repository?
 git pull origin issue_test_branch
