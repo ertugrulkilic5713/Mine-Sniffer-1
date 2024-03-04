@@ -1,5 +1,5 @@
 # Mine-Sniffer-1
-Advanced mine detection and safety research &amp; engineering project.
+Advanced mine detection and safety rover.
 
 # Communication:
 All communication related to the process of developing the necessary code and design segments of the Mine Sniffer (MS) is done using the Trello planner and Whatsapp group messages.
